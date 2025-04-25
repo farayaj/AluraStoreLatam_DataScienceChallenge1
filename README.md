@@ -3,10 +3,21 @@ Es un desafío para practicar el análisis de base de datos para un caso en part
 
 ## Ejemplos de gráficos e insights obtenidos
 
-- **Gráficos de barras y tortas** para visualizar participación de categorías por tienda.  
-- **Gráfico de dispersión** para comparar calificaciones promedio.  
-- **Ranking de productos más/menos vendidos**.  
-- **Comparación de ingresos totales y costos de envío promedio**.
+- **Gráfico de columna** para visualizar los ingresos totales por tienda.
+  
+  ![Alt text](graficos/ingresos_totales_por_tienda.png)
+  
+- **Gráfico de línea** para comparar calificaciones promedio.
+  
+  ![Alt text](graficos/promedio_de_los_clientes_por_tienda.png)
+  
+- **Gráfico de tortas** para comparar las categorías de producto.
+  
+  ![Alt text](graficos/categoría_producto.png)
+  
+- **Gráfico de barras** para comparar los productos más/menos vendidos.
+  
+  ![Alt text](graficos/top_5_más_menos_vendidos.png)  
 
 **Insight destacado**: La Tienda 3 posee el mejor balance entre ventas, satisfacción del cliente y liderazgo en categorías clave.
 
